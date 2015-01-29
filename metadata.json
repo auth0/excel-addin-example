@@ -1,0 +1,9 @@
+{
+  "name": "Excel addin example authenticating with Auth0.",
+  "type": "sample",
+  "tags": [
+    "excel",
+    "csharp",
+    "dotnet"
+  ]
+}
